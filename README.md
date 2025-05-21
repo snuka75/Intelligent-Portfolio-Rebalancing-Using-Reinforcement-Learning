@@ -65,13 +65,13 @@ Open portfolio_optimization_with_rl.py in Jupyter or Google Colab
 ## 🖼️ Visual Results
 
 ### 🔹 Portfolio Allocation Heatmap
-![Heatmap](images/heatmap.png)
+![Heatmap](heatmap.png)
 
 ### 🔹 Portfolio Value vs. SPY Benchmark
-![Portfolio vs SPY](images/portfolio_vs_spy.png)
+![Portfolio vs SPY](portfolioVSSPY.png)
 
 ### 🔹 Reward Breakdown Over Time
-![Reward Breakdown](images/reward_breakdown.png)
+![Reward Breakdown](reward.png)
 
 ---
 
