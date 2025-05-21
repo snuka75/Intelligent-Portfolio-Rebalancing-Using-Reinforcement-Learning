@@ -41,10 +41,9 @@ The agent is benchmarked against the **SPY ETF**, allowing a direct comparison b
 
 ```
 portfolio-optimization-rl/
-├── rl_portfolio.ipynb           # Main notebook
-├── README.md                    # Project documentation
-├── requirements.txt             # Dependencies
-└── images/                      # Screenshots/outputs
+├── portfolio_optimization_with_rl.py    # Main notebook
+├── README.md                            # Project documentation
+└── images/                              # Screenshots/outputs
 ```
 
 ---
@@ -58,7 +57,7 @@ pip install yfinance stable-baselines3 gym shimmy matplotlib ta transformers fee
 
 ### 2. Run the Notebook
 ```bash
-Open rl_portfolio.ipynb in Jupyter or Google Colab
+Open portfolio_optimization_with_rl.py in Jupyter or Google Colab
 ```
 
 ---
